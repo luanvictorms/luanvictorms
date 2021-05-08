@@ -7,7 +7,7 @@ Tecnologias que estou estudando :
 • Html
 • Css
 ● Js
-● Frameworks : Angular, React
+● Angular, React
 • Node
 • MySql
 
