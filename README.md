@@ -1,4 +1,4 @@
-Hello World !
+■ Hello World !
 
 Um pouco sobre mim :
 Sou um desenvolvedor em processo de aprendizagem, tenho 26 anos e sou apaixonado por programação. Atualmente estou aprendendo desenvolvimento web, mas com foco futuro no angular e react para o desenvolvimento mobile. E em paralelo estou cursando o tecnologo de Gestão de Ti e focado em varios cursos para me inserir futuramente no desenvolvimento de aplicativos para dispositivos moveis ,com foco em utilização de tecnologias criativas e inovadoras. 
