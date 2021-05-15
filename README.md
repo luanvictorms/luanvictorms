@@ -9,7 +9,7 @@ Tecnologias que estou estudando :
 ● Js
 ● Angular
 ● React
-• Node
+• Node.js
 • MySql
 
 
