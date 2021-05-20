@@ -49,6 +49,8 @@ Sou um desenvolvedor em processo de aprendizagem, tenho 26 anos e sou apaixonado
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+  
+[![luanvictorms](https://github-readme-stats.vercel.app/api/top-langs/?username=luanvictorms&hide=html&layout=compact&theme=default)](https://github.com/luanvictorms/)
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-LuanVictor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luan-victor-61756518b/)
 [![Gmail Badge](https://img.shields.io/badge/-luanvictorms@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanvictorms@gmail.com)](mailto:luanvictorms@gmail.com)
