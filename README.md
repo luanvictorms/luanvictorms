@@ -10,7 +10,7 @@ Sou um desenvolvedor em processo de aprendizagem, tenho 26 anos e sou apaixonado
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Gestão em Ti** no <a href="https://www.una.br/">CENTRO UNIVERSITARIO UNA</a>.
-- 💼 &nbsp; Procurando Estagio na Area de Ti
+- 💼 &nbsp; Procurando Estagio Desenvolvedor Full Stack
 - 🌱 &nbsp; Aprendendo mais sobre **Node.js, JavaScript, Java, Desenvolvimento mobile, SQL, HTML, CSS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
