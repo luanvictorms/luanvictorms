@@ -25,6 +25,7 @@ Sou um desenvolvedor em processo de aprendizagem, tenho 26 anos e sou apaixonado
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![ADONIS](https://img.shields.io/badge/.Adonis.js-5C2D91?style=for-the-badge&logo=adonisjs&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-43853D?style=for-the-badge&logo=angular&logoColor=white)
   
 **Utilidades**
 
