@@ -20,12 +20,13 @@ Sou um desenvolvedor em processo de aprendizagem, tenho 26 anos e sou apaixonado
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![ADONIS](https://img.shields.io/badge/.Adonis.js-5C2D91?style=for-the-badge&logo=adonisjs&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-43853D?style=for-the-badge&logo=angular&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
 **Utilidades**
 
