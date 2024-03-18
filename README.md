@@ -4,8 +4,7 @@
 <h3> 👨‍🦲: &nbsp;Sobre mim </h3>
 <h3> Hello World ! <h3>
 
-<h4> Um pouco sobre mim :
-Sou um desenvolvedor em processo de aprendizagem, tenho 26 anos e sou apaixonado por programação. Atualmente estou aprendendo desenvolvimento web, mas com foco futuro no angular e react para o desenvolvimento mobile. E em paralelo estou cursando o tecnologo de Gestão de Ti e focado em varios cursos para me inserir futuramente no desenvolvimento de aplicativos para dispositivos moveis.
+Sou um desenvolvedor em processo de aprimoração, tenho 26 anos e sou apaixonado por programação. Atualmente sou desenvolvedor FullStack Junior na teknisa e nas horas vagas estudo muito desenvolvimento web, com foco futuro no vue.js e react para o desenvolvimento mobile. Como desenvolvedor FullStack estou estudando tecnologias de Inteligencia Artificial, Apis, desenvolvimento orientado a Testes e aplicando conhecimentos de Banco de dados em diversos projetos.
   
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
