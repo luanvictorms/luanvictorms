@@ -27,6 +27,7 @@ Sou um desenvolvedor em ascensão, tenho 29 anos e sou apaixonado por programaç
 **Utilidades**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **DevOps**
 
