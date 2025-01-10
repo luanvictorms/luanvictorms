@@ -4,21 +4,19 @@
 <h3> 👨‍🦲: &nbsp;Sobre mim </h3>
 <h3> Hello World ! <h3>
 
-Sou um desenvolvedor em processo de aprimoração, tenho 26 anos e sou apaixonado por programação. Atualmente sou desenvolvedor FullStack Junior na teknisa e nas horas vagas estudo muito desenvolvimento web, com foco futuro no vue.js e react para o desenvolvimento mobile. Como desenvolvedor FullStack estou estudando tecnologias de Inteligencia Artificial, Apis, desenvolvimento orientado a Testes e aplicando conhecimentos de Banco de dados em diversos projetos.
+Sou um desenvolvedor em ascensão, tenho 29 anos e sou apaixonado por programação. Atualmente sou desenvolvedor FullStack Pleno na teknisa e nas horas vagas estudo muito, com foco em vue.js e react para o desenvolvimento mobile. Como desenvolvedor FullStack estou estudando tecnologias de Inteligencia Artificial, API Rest, Devops, desenvolvimento orientado a Testes e aplicando conhecimentos de Banco de dados em diversos projetos.
   
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Gestão em Ti** no <a href="https://www.una.br/">CENTRO UNIVERSITARIO UNA</a>.
-- 💼 &nbsp; Full Stack Junior na Teknisa
-- 🌱 &nbsp; Aprendendo mais sobre **Node.js, Vue.js,JavaScript, Java, Desenvolvimento mobile, SQL, HTML, CSS**.
+- 💼 &nbsp; Full Stack Pleno na Teknisa
+- 🌱 &nbsp; Desenvolvendo soluções em: **Node.js, Vue.js, React.js, Next, Nest, Laravel, Typescript, PHP, SQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
-
-  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5
+  ![Typescript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
